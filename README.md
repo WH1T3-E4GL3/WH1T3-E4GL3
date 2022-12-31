@@ -1,7 +1,8 @@
+[![WH1T3 E4GL3s's GitHub stats](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3)](https://github.com/anuraghazra/github-readme-stats)
+
 [![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![WH1T3 E4GL3s's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3a&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide
 
 
 - 👋 Hi, I’m @WH1T3-E4GL3
