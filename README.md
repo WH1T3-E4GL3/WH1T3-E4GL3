@@ -1,3 +1,6 @@
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @WH1T3-E4GL3
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning a lot of things🥵
