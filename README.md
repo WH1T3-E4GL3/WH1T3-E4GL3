@@ -1,10 +1,10 @@
 # WH1T3-E4GL3
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WH1T3-E4GL3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WH1T3-E4GL3)]
 
 
 
-[![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![WH1T3 E4GL3s's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![WH1T3 E4GL3s's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=default#gh-light-mode-only)]
 
 
 
