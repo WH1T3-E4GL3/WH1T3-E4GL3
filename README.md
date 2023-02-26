@@ -3,13 +3,13 @@
 
 https://user-images.githubusercontent.com/118425907/221398513-fc33a68b-4f0a-4ee0-82d0-73febfd3ffcd.mp4
 
-![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif) [![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)] [![GitHub Streak](https://streak-stats.demolab.com/?user=WH1T3-E4GL3)]
+![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif) [![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)] 
 
 ___________________________________________________________________
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WH1T3-E4GL3)]
 
 
 
