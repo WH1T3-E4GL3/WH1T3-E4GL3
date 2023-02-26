@@ -1,7 +1,8 @@
 # WH1T3-E4GL3
 
+![new](https://user-images.githubusercontent.com/118425907/221398818-517617b8-1f9c-41ec-88da-4f3dfe7d4c4a.gif)
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/118425907/221398772-0dc89e1f-68b4-420d-a26f-e00daa103c85.gif)
+
 
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif) [![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)] 
