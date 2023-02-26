@@ -11,7 +11,7 @@ ___________________________________________________________________
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WH1T3-E4GL3)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=WH1T3-E4GL3)
 
 
 
