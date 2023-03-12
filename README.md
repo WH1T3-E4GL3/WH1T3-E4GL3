@@ -18,7 +18,7 @@ ___________________________________________________________________
 
 
 
-- 👋 Hi, I’m @WH1T3-E4GL3
+- 👋 Hi, I’m @WH1T3 L'
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning a lot of things🥵
 - 💞️ I’m looking to collaborate on google🤭
