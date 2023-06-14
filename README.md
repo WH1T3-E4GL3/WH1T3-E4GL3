@@ -1,6 +1,6 @@
 # WH1T3 L'
 
-<b><i>I will not post any high level/complicated and explict programs or content here because all the contents in my account is intended simply for educational purpose only and the aim is every one will understand the scripts i post so i tried to keep it simple as much as i can and provide explanation of each code. each of them will be simple implementations.<i><b>
+<b><i>"I will not post any high level/complicated and explict programs or content here because all the contents in my account is intended simply for educational purpose only and the aim is every one will understand the scripts i post so i tried to keep it simple as much as i can and provide explanation of each code. each of them will be simple implementations, so that everyone can understand the aspects."<i><b>
 
 ![new](https://user-images.githubusercontent.com/118425907/221398818-517617b8-1f9c-41ec-88da-4f3dfe7d4c4a.gif)
 
