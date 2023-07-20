@@ -10,7 +10,7 @@
 
 ___________________________________________________________________
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxite.exe/)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WH1T3-E4GL3)
