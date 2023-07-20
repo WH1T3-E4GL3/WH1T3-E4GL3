@@ -2,7 +2,8 @@
 
 <b><i>"I will not post any high level/complicated and explict programs or content here because all the contents in my account is intended simply for educational purpose only and the aim is every one will understand the scripts i post so i tried to keep it simple as much as i can and provide explanation of each code. each of them will be simple implementations, so that everyone can understand the aspects."<i><b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WH1T3-E4GL3&label=Profile%20views&color=0e75b6&style=flat" alt="WH1T3-E4GL3" /> </p>
-
+<a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-blue?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-green?style=for-the-badge&logo=instagram)](https://instagram.com/la1uuuuu?igshid=YmMyMTA2M2Y=)
 
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://user-images.githubusercontent.com/118425907/221398624-14971bbf-5614-44b4-b20e-30db3c169247.gif)     ![WH1T3 E4GL3s's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WH1T3-E4GL3&show_icons=true&theme=dark#gh-dark-mode-only)
