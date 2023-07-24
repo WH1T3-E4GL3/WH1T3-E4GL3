@@ -20,7 +20,7 @@ ___________________________________________________________________
 
 
 
-- 👋 Hi, I’m @WH1T3 L'
+- 👋 Hi, I’m Sethu Satheesh
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning a lot of things🥵
 - 💞️ I’m looking to collaborate on google🤭
