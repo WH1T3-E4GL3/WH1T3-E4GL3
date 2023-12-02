@@ -7,8 +7,7 @@
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
 
- <script src="https://tryhackme.com/badge/1374543"></script>
-___________________________________________________________________
+ <img src="https://tryhackme-badges.s3.amazonaws.com/S3THU.png" alt="TryHackMe">___________________________________________________________________
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxite.exe/)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/WH1T3-E4GL3/WH1T3-E4GL3)   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Ka_KsHi_HaTaKe) 
 
