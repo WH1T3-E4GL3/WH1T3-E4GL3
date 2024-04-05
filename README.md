@@ -23,7 +23,7 @@
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning a lot of things🥵
 - 💞️ I’m looking to collaborate on google🤭
-- 📫 How to reach me : https://t.me/Ka_KsHi_HaTaKe (Telegram me)
+- 📫 How to reach me : https://www.instagram.com/whxiteee/ (Instagran me)
 
 <!---
 WH1T3-E4GL3/WH1T3-E4GL3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
