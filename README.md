@@ -3,9 +3,7 @@
 <b><i>"I will not post any high level/complicated and explict programs or content here because all the contents in my account is intended simply for educational purpose only and the aim is every one will understand the scripts i post so i tried to keep it simple as much as i can and provide explanation of each code. each of them will be simple implementations, so that everyone can understand the aspects."<i><b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WH1T3-E4GL3&label=Profile%20views&color=0e75b6&style=flat" alt="WH1T3-E4GL3" />    <img src="https://tryhackme-badges.s3.amazonaws.com/S3THU.png" alt="TryHackMe">  
 
-</p>
-
-<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p> <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
